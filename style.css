@@ -41,3 +41,8 @@ h1 {
     font-size: 18px;
     margin: 10px 0;
 }
+
+footer p{
+    font-family: "Nunito", sans-serif;
+    font-size: 10px;
+}
