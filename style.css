@@ -1,0 +1,43 @@
+body {
+    background-color: #2c2c2c;
+    color: #ffffff;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+.counter {
+    margin: 20px 0;
+}
+
+#timer {
+    font-size: 24px;
+    color: #ff0000;
+}
+
+.photos img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid #ff0000;
+}
+
+.declarations {
+    margin-top: 20px;
+}
+
+.declarations p {
+    font-size: 18px;
+    margin: 10px 0;
+}
